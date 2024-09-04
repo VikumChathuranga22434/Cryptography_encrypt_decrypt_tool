@@ -1,0 +1,17 @@
+# Example of a CODEOWNERS file
+
+# The following people will be code owners for everything in the repo
+
+* @VikumChathuranga22434 @Chanuka-Dushan
+
+# The following people will be code owners for the /src/ directory
+
+/src/ @VikumChathuranga22434 @Chanuka-Dushan
+
+# The following people will be code owners for any .js files
+
+*.js @VikumChathuranga22434 @Chanuka-Dushan
+
+# The following people will be code owners for README.md
+
+README.md @VikumChathuranga22434 @Chanuka-Dushan
